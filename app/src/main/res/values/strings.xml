@@ -76,4 +76,5 @@
     <string name="duplicates_description_single">This song is already in the playlist.</string>
     <string name="duplicates_description_multiple">%1$d songs are already in the playlist.</string>
     <string name="qs_tile_music_recognizer">Music Recognizer</string>
+    <string name="filter_library">Filter library</string>
 </resources>
