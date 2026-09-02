@@ -71,4 +71,9 @@
     <string name="unknown">Unknown</string>
     <string name="volume">Volume</string>
     <string name="content">Content</string>
+    <string name="duplicates">Duplicates</string>
+    <string name="skip_duplicates">Skip duplicates</string>
+    <string name="duplicates_description_single">This song is already in the playlist.</string>
+    <string name="duplicates_description_multiple">%1$d songs are already in the playlist.</string>
+    <string name="qs_tile_music_recognizer">Music Recognizer</string>
 </resources>
