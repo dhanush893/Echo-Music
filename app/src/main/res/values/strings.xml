@@ -67,7 +67,6 @@
     <string name="about">About</string>
     <string name="app_version">App version</string>
     <string name="done">Done</string>
-    <string name="cancel">Cancel</string>
     <string name="retry">Retry</string>
     <string name="unknown">Unknown</string>
     <string name="volume">Volume</string>
